@@ -12,6 +12,7 @@ pdf: https://github.com/hmemcpy/milewski-ctfp-pdf \n
 topics: ["haskell", "関数型プログラミング", "圏論", "数学"]
 published: true
 price: 0 # 有料の場合200〜5000
+allow_override: true
 # 本に含めるチャプターを順番に並べましょう
 chapters:
   - 1-0
