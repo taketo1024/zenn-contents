@@ -1,0 +1,29 @@
+title: "プログラマのための圏論 (執筆中)"
+summary: "Bartosz Milewski \"Category Theory for Programmers\"\n
+\n
+原文: https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/\n
+pdf: https://github.com/hmemcpy/milewski-ctfp-pdf \n
+\n
+原文は pdf, TeX ソース, 画像など全て CC BY-SA 4.0 ライセンスで無料公開されています．当和訳文も同ライセンスで無料公開します． https://creativecommons.org/licenses/by-sa/4.0/ \n
+\n
+この和訳プロジェクトは現在進行中です．和訳に協力してくださる方は是非ご連絡下さい．ガイドライン： https://zenn.dev/taketo1024/articles/4e27d5dfa14eb1\n
+\n
+イイネ❤️やサポート💰を頂けるとやる気が上がり，作業スピードが上がることが期待されます．続きを早く読みたい方は是非ご支援よろしくお願いします🙏"
+topics: ["haskell", "関数型プログラミング", "圏論", "数学"]
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - 1-0
+  - 1-1
+  - 1-2
+  - 1-3
+  - 1-4
+  - 2-0
+  - 2-1
+  - 2-2
+  - 2-3
+  - 2-4
+  - 2-5
+  - 2-6
+  - 2-7
