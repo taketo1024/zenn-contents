@@ -6,3 +6,17 @@
 
 * [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
 * [📘 Markdown guide](https://zenn.dev/zenn/articles/markdown-guide)
+
+# Development
+
+To execute textlint for all md files,
+
+```bash
+npm run lint
+```
+
+To fix some of style warnings automatically for all files,
+
+```bash
+npm run lintfix
+```
