@@ -4,12 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npx textlint books/850b20937af93b",
+    "lintfix": "npx textlint books/850b20937af93b --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "zenn-cli": "^0.1.80"
+  },
+  "devDependencies": {
+    "textlint": "^11.9.1",
+    "textlint-rule-preset-japanese": "^6.0.1"
   }
 }
